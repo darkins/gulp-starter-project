@@ -1,0 +1,28 @@
+{
+  "name": "gulp-starter",
+  "version": "0.1.0",
+  "description": "A gulp starter template",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build"
+  },
+  "author": "Declan Arkins",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7",
+    "browser-sync": "^2.27.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-uglify-es": "^2.0.0",
+    "sass": "^1.35.1"
+  },
+  "dependencies": {
+    "modern-css-reset": "^1.4.0"
+  }
+}
