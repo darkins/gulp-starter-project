@@ -1,5 +1,5 @@
 # gulp-starter-project
 
-### `npm install`
+run ### `npm install`
 
-### `gulp`
+then ### `gulp`
