@@ -1,5 +1,7 @@
 # gulp-starter-project
 
-run ### `npm install`
+### `npm install`
+Run npm install to get dependencies
 
-then ### `gulp`
+### `gulp`
+Then gulp to startup in the browser
